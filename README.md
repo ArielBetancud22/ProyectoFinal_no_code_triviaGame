@@ -16,7 +16,7 @@ Juego de trivia de Pseint a Java
 # Atención
 # 🔹 Marca este proyecto con una ⭐
 # 🔹 Sigue las orientaciones que tenemos en este repositorio. 📚
-# 🔹 ¡Visita nuestra página Web para ver el desafío anterior hace clic aquí:  https://mzadante.github.io/original_web_no_code.github.io/📃
+# 🔹 ¡Visita nuestra página Web para ver el desafío anterior hace clic aquí: https://mzadante.github.io/original_web_no_code.github.io/ 
 ----------------------------------------------------------------------------------------
 🖥️ Tecnologías Utilizadas:
 •	Java
